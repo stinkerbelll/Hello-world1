@@ -1,2 +1,2 @@
 # Hello-world1
-second attempt
+Making a second attempt at a functioning repository - hopefully this time will work!
